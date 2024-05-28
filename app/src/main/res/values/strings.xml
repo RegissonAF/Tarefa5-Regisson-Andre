@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Tarefa5 -Regisson Andre</string>
+    <string name="cadastro_de_alunos" />
+    <string name="cadastro_de_alunos2">Cadastro de Alunos</string>
+    <string name="name">Name</string>
+    <string name="ra">RA</string>
+    <string name="cep">CEP</string>
+    <string name="bairro">Bairro</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="complemento">Complemento</string>
+    <string name="cidade">Cidade</string>
+    <string name="uf">UF</string>
+    <string name="cadastrar">Cadastrar</string>
 </resources>
