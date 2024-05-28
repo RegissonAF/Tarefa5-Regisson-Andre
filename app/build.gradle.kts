@@ -33,7 +33,8 @@ android {
 
 dependencies {
 
-    implementation(files("com/example/tarefa5_regissonandre/libs/retrofit-2.11.0.jar"))
+
+    implementation (libs.retrofit)
 
     implementation(libs.appcompat)
     implementation(libs.material)
