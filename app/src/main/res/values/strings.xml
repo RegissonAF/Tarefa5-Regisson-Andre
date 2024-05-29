@@ -1,8 +1,5 @@
 <resources>
     <string name="app_name">Tarefa5 -Regisson Andre</string>
-    <string name="cadastro_de_alunos" />
-    <string name="cadastro_de_alunos2">Cadastro de Alunos</string>
-    <string name="name">Name</string>
     <string name="ra">RA</string>
     <string name="cep">CEP</string>
     <string name="bairro">Bairro</string>
@@ -11,5 +8,8 @@
     <string name="cidade">Cidade</string>
     <string name="uf">UF</string>
     <string name="cadastrar">Cadastrar</string>
-    <string name="cadastrar_mais_um_aluno">Cadastrar mais um Aluno</string>
+    <string name="adicionar_aluno">Adicionar Aluno</string>
+    <string name="nome">Nome</string>
+    <string name="buscar_cep">Buscar CEP</string>
+    <string name="cadastro_de_alunos">Cadastro de Alunos</string>
 </resources>
