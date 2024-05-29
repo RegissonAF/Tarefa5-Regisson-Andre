@@ -11,4 +11,5 @@
     <string name="cidade">Cidade</string>
     <string name="uf">UF</string>
     <string name="cadastrar">Cadastrar</string>
+    <string name="cadastrar_mais_um_aluno">Cadastrar mais um Aluno</string>
 </resources>

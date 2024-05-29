@@ -1,4 +1,4 @@
-package com.example.tarefa5_regissonandre;
+package com.example.tarefa5_regissonandre.models;
 
 public class Aluno {
     private int ra;
